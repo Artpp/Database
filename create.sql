@@ -17,7 +17,7 @@
 # Add table "Agent"                                                      #
 # ---------------------------------------------------------------------- #
 create schema 5705404017db;
-use 5705404017b;
+use 5705404017db;
 CREATE TABLE `Agent` (
     `Agent_ID` CHAR(20) NOT NULL,
     `Agent_Name` VARCHAR(40),
